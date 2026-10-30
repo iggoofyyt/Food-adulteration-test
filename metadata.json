@@ -1,0 +1,6 @@
+{
+  "name": "PureSnap Tester",
+  "description": "Smart camera-based food adulteration screening app with step-by-step test guides, color analysis, multilingual voice guidance, and local chart database.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
